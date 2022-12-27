@@ -2,5 +2,5 @@
 
 Git and Git hub [Change on Git hub]
 
-# projects to be completed
-### hackatone
+#projects to be completed
+## hackatone
